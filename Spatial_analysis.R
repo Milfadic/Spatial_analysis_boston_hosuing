@@ -1,5 +1,3 @@
-#Spatial Econometrics Exam- Milenko Fadic
-
 #Summary 
 #Part 1 Load Packages , setting WD, & Load dataset
 #Part 2 Load data , Assigning Variables & Summary Statistics
